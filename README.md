@@ -47,6 +47,11 @@
       <td style="border: 1px solid #ddd; padding: 10px;">Public Jupyter Notebook</td>
       <td style="border: 1px solid #ddd; padding: 10px;">Python</td>
     </tr>
+   <tr>
+      <td style="border: 1px solid #ddd; padding: 10px;"><a href="https://github.com/sidhi6276/Sales-Data-Analysis-End-to-End-Project">Sales-Data-Analysis-End-to-End-Project</a></td>
+      <td style="border: 1px solid #ddd; padding: 10px;">An end-to-end project performing data cleaning, analysis, visualization, and reporting on sales data</td>
+      <td style="border: 1px solid #ddd; padding: 10px;">Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</td>
+    </tr>
   </tbody>
 </table>
 
